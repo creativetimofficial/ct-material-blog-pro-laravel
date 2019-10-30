@@ -65,7 +65,7 @@ A admin type user can log in, update his profile and perform actions on categori
 
 You have the option to edit the current logged in user's profile information (name, email, profile picture) and password. To access this page, just click the "**Examples/Profile**" link in the left sidebar or add **/profile** in the URL.
 
-The `App\Htttp\Controlers\ProfileController` handles the update of the user information and password.
+The `App\Http\Controllers\ProfileController` handles the update of the user information and password.
 
 ```
 public function update(ProfileRequest $request)
@@ -410,7 +410,7 @@ public function index(Article $model)
       <li> member type - <b>member@material.com</b> with the password <b>secret</b> </li>
     </ul>
 </p>
-<p>The <code class="highlighter-rouge">App\Htttp\Controlers\Blog\ArticleController</code> holds the <strong>show</strong>  function, which handles the details about the article, the comments and the more articles section.</p>
+<p>The <code class="highlighter-rouge">App\Http\Controllers\Blog\ArticleController</code> holds the <strong>show</strong>  function, which handles the details about the article, the comments and the more articles section.</p>
 <figure class="highlight"><pre><code class="language-html" data-lang="html">
 public function show(Article $article, Comment $modelComment)
 {
