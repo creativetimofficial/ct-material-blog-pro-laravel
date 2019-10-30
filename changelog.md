@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `Laravel Material Dashboard Pro` theme for Laravel will be documented in this file.
+All notable changes to `Material Blog Pro Laravel` theme for Laravel will be documented in this file.
 
 ## Version 1.0.0
 
@@ -14,6 +14,7 @@ All notable changes to `Laravel Material Dashboard Pro` theme for Laravel will b
 - Tag CRUD
 - Category CRUD
 - Article CRUD
+- Blog dashboard
 - User roles & access restrictions
 - Homepage with latest articles and featured articles, top authors section
 - Articles listed by category, tag or author
