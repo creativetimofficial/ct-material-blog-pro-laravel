@@ -20,3 +20,7 @@ All notable changes to `Material Blog Pro Laravel` theme for Laravel will be doc
 - Articles listed by category, tag or author
 - Search results page
 - Article page with comments integration
+
+## Version 1.0.1
+
+- Update to Laravel 7.x
