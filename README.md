@@ -1759,7 +1759,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://material-blog-pro-laravel.creative-tim.com/docs/material-blog-pro-laravel/docs/getting-started/laravel-setup.html?ref=mbl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-blog-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-blog-pro-laravel/issues)
 - **Dashboards:**
 
 | LARAVEL |
@@ -1786,7 +1786,7 @@ We use GitHub Issues as the official bug tracker for the Material Blog PROLarave
 ## Licensing
 
 - Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=mbl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license).
+- Creative Tim License (https://www.creative-tim.com/license).
 
 
 ## Useful Links
