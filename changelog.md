@@ -28,3 +28,8 @@ All notable changes to `Material Blog Pro Laravel` theme for Laravel will be doc
 ## Version 1.0.2
 
 - Update to Laravel 8.x
+
+## Version 1.0.3
+
+- Update to Laravel 9.x
+
