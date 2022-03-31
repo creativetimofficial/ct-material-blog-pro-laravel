@@ -5,7 +5,7 @@
 *Frontend version*: Material Dashboard v2.1.0. More info at https://www.creative-tim.com/product/material-dashboard-pro
 *Frontend version*: Material UI Kit v2.1.0. More info at https://www.creative-tim.com/product/material-kit-pro
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/material-blog-laravel/intro.gif?raw=true)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/222/original/opt_mb_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/material-blog-pro-laravel) 
 
 Material Blog PRO with Laravel has all the core features you need in a blog, right out of the box and with a fresh, new design inspired by Google's Material Design.
 
